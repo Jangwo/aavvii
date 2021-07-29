@@ -7,7 +7,7 @@ ___
 ![baseball-field-1149153_640](https://user-images.githubusercontent.com/88136804/127470498-ea79bded-f78b-4da6-9464-f185ee892e59.jpg){
 ## Welcome to aavvii
 
-You can use the [editor on GitHub](https://github.com/Jangwo/aavvii/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [jangwo](https://jangwo.github.io/aavvii/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
