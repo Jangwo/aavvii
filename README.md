@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Jangwo/aavvii/edit/main/RE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+음 어 음 어 음 어 ㅇㅡㅁ ㅇㅓ ㅇㅡㅁ ㅇㅓ ㅇㅡㅁ ㅇㅓ ㅇ ㅡ ㅁ ㅇ ㅓ 음어음어음어
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
